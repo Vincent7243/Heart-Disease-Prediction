@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1087584085522",
+    "project_id": "heartdiseasedetection",
+    "storage_bucket": "heartdiseasedetection.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087584085522:android:bb3ae09873ae2628a51acb",
+        "android_client_info": {
+          "package_name": "com.example.dacn_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFiKt_FZxR_3vYYheDC6l9_uMB6I9JRdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
